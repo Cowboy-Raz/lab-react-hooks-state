@@ -5,6 +5,7 @@ export const sampleProducts = [
   { id: 2, name: 'Banana', category: 'Fruits' },
   { id: 3, name: 'Milk', category: 'Dairy' },
   { id: 4, name: 'Cheese', category: 'Dairy' },
+  { id: 5, name: 'Bread', category: 'Veggies' },
 ]
 
 function ProductList({ category, addToCart }) {
